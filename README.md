@@ -21,3 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+<div align = "center">
+  <img style = "width: 150px;" src = "https://i.gifer.com/origin/ff/fff0f75279c6394ad746b410a9fd03cb_w200.gif"/>
+</div>
