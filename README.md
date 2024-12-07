@@ -23,5 +23,5 @@
 </div>
 
 <div align = "center">
-  <img style = "width: 150px;" src = "https://i.gifer.com/origin/ff/fff0f75279c6394ad746b410a9fd03cb_w200.gif"/>
+  <img style = "width: 150px;" src = "https://64.media.tumblr.com/564e1a3f5d42ccaef8416bfff73fc06d/4eda8c0aa7a2a03c-36/s400x600/d13eff72f85a0a7e6ba5391ba51f45f62e6072c1.gif"/>
 </div>
